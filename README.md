@@ -1,2 +1,2 @@
 # mm.com
-My personal site.
+My personal site — a work-in-progress :)
