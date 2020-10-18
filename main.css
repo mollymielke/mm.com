@@ -1,0 +1,146 @@
+/* #Basic elements
+================================================== */
+
+@font-face {
+	font-family: Inter;
+	src: url(fonts/Inter-Regular-slnt=0.ttf);
+}
+
+@font-face {
+	font-family: Inter;
+	src: url(fonts/inter);
+}
+
+* {
+	-webkit-font-smoothing: antialiased;
+	margin:0;
+    padding: 0;
+}
+
+body {
+	color: #403E43;
+	font-family: Inter;
+	text-decoration: none;
+}
+
+.underline {
+  display: inline;
+  position: relative;
+  overflow: hidden;
+  width: 40px;
+}
+
+.underline:after {
+  content: "";
+  position: absolute;
+  z-index: -1;
+  left: 0;
+  right: 100%;
+  bottom: -3px;
+  background: #8A898C;
+  height: 1.5px;
+  transition-property: left right;
+  transition-duration: 0.2s;
+  transition-timing-function: ease-out;
+}
+.underline:hover:after,
+.underline:focus:after,
+.underline:active:after {
+  right: 0;
+}
+
+footer {
+	color: black;
+	font-family: Inter;
+	font-size: 12px;
+	letter-spacing: 1px;
+	line-height: 20px;
+	margin-top: 128px;
+
+}
+
+h1 {
+	color: #403E43;
+	font-family: Inter;
+	font-size: 20px;
+	letter-spacing: .25px;
+	line-height: 28px;
+	padding-bottom: 48px;
+}
+
+h2 {
+	color: #403E43;
+	font-family: Inter;
+	font-size: 16px;
+	letter-spacing: .25px;
+	line-height: 24px;
+	margin-bottom: 48px;
+}
+
+h3 {
+	color: #403E43;
+	font-family: Inter;
+	font-size: 16px;
+	letter-spacing: 0.35px;
+	line-height: 24px;
+	margin-bottom: 4px;
+}
+
+h4 {
+	color: #9F9EA1;
+	font-family: Inter;
+	font-size: 12px;
+	letter-spacing: 1.5px;
+	line-height: 20px;
+	margin-top: 0px;
+	text-transform: uppercase;
+}
+
+body.night #moon {
+	cursor: pointer;
+	width: 20px;
+}
+
+body.day #moon {
+	display: none;
+}
+
+body.night #sun {
+	display: none;
+}
+
+body.day #sun {
+	cursor: pointer;
+	width: 20px;
+}
+
+.spacer48 {
+	height: 48px;
+	width: 100%;
+}
+
+
+/* For devices smaller than 400px */
+@media (max-width: 550px) {
+body.night #moon {
+	margin-bottom: 80px;
+	padding-right: 8px;
+	width: 20px;
+	float: right
+}
+
+body.day #sun {
+	margin-bottom: 80px;
+	padding-right: 8px;
+	width: 20px;
+	float: right
+}
+
+
+
+
+/* Day mode styling */
+
+
+
+}
