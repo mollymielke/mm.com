@@ -175,12 +175,12 @@
   <div class="row group">
 
     <div class="three columns offset-by-six animated fadeIn three">
-      <h2><a href="https://www.northeastern.edu/" target="_blank" class="underline">Northeastern University</a></h2>
+      <h2><a href="ucla.edu" target="_blank" class="underline">UCLA</a></h2>
     </div>  
 
     <div class="three columns animated fadeIn three">
-      <h3>Interaction Design and Business</h3>
-      <h4>2011–2016</h4>
+      <h3>Digital Media</h3>
+      <h4>2018–2021</h4>
     </div>
 
   </div>
