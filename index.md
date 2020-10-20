@@ -18,7 +18,7 @@
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
   
   <link rel="stylesheet" href="skeleton.css">
-  <link rel="stylesheet" href="main2.css">
+  <link rel="stylesheet" href="main.css">
   <link rel="stylesheet" href="animate.css">
   <link rel="stylesheet" href="normalize.css">
 
