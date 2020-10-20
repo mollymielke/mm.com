@@ -3,22 +3,22 @@
 
 @font-face {
 	font-family: Inter;
-	src: url(fonts/Inter-Regular-slnt=0.ttf);
+	src: url(/fonts/Inter-Regular-slnt=0.ttf);
 }
 
 @font-face {
 	font-family: InterMedium;
-    src: url(fonts/Inter-SemiBold-slnt=0.ttf);
+    src: url(/fonts/Inter-SemiBold-slnt=0.ttf);
 }
 
 @font-face {
 	font-family: InterBold;
-    src: url(fonts/Inter-Bold-slnt=0.ttf);
+    src: url(/fonts/Inter-Bold-slnt=0.ttf);
 }
 
 @font-face {
 	font-family: Lyon;
-	src: url(fonts/ly);
+	src: url(/fonts/ly);
 }
 
 * {
