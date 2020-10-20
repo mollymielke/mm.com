@@ -1,0 +1,365 @@
+/* #Basic elements
+================================================== */
+
+@font-face {
+	font-family: Inter;
+	src: url(fonts/Inter-Regular-slnt=0.ttf);
+}
+
+@font-face {
+	font-family: InterMedium;
+    src: url(fonts/Inter-SemiBold-slnt=0.ttf);
+}
+
+@font-face {
+	font-family: InterBold;
+    src: url(fonts/Inter-Bold-slnt=0.ttf);
+}
+
+@font-face {
+	font-family: Lyon;
+	src: url(fonts/ly);
+}
+
+* {
+	-webkit-font-smoothing: antialiased;
+	margin:0;
+    padding: 0;
+}
+
+/* cursors! */
+
+#no:hover {
+    cursor: not-allowed;
+}
+
+#details:hover {
+    cursor: crosshair;
+}
+
+/* cursors! 
+
+.mydiv {
+    position: absolute;
+    z-index: 9;
+  }
+  
+  .mydivheader {
+    position: static;
+    cursor: move;
+    z-index: 10;
+    background-color: #303030;
+  }
+*/
+  #hover {
+    color: white;
+
+  }
+
+  #hover:hover {
+    position: static;
+    width: auto;
+    color: white;
+    background-color: #484C50;
+    padding-top: 2px;
+    padding-bottom: 3px;
+    margin-left: -4px;
+    padding-right: 4px;
+    padding-left: 4px;
+    -webkit-box-flex: 1;
+    -webkit-flex: 1;
+    -ms-flex: 1;
+    flex: 1;
+    -webkit-transition: all 100ms ease;
+    transition: all 100ms ease;
+    border-radius: 4px;
+  }
+
+  .hover-block {
+    position: static;
+    display: inline-block;
+    margin-bottom: 0px;
+    margin-left: -4px;
+    padding-right: 4px;
+    padding-left: 4px;
+    -webkit-box-flex: 1;
+    -webkit-flex: 1;
+    -ms-flex: 1;
+    flex: 1;
+    -webkit-transition: all 200ms ease;
+    transition: all 200ms ease;
+  }
+  
+  .hover-block:hover {
+    border-radius: 4px;
+    background-color: #484C50;
+  }
+
+
+ 
+  .underline {
+    color: #B3D4FC;
+    text-decoration: none;
+    display: inline;
+    position: relative;
+    overflow: hidden;
+    width: 40px;
+  }
+  
+  .underline:after {
+    content: "";
+    position: absolute;
+    z-index: -1;
+    left: 0;
+    right: 100%;
+    bottom: -3px;
+    color: white;
+    background: white;
+    height: 1px;
+    transition-property: left right;
+    transition-duration: 0.2s;
+    transition-timing-function: ease-out;
+  }
+  .underline:hover:after,
+  .underline:focus:after,
+  .underline:active:after {
+    right: 0;
+  }
+
+body {
+    color: white;
+    display: inline;
+    font-family: Inter;
+    text-decoration: none;
+}
+p {
+    font-size: 1.25em;
+    font-family: Inter;
+    line-height: 150%;
+	letter-spacing: -0.025em;
+}
+footer {
+	color: white;
+	font-family: Inter;
+	font-size: 12px;
+	letter-spacing: 1px;
+	line-height: 20px;
+	margin-top: 128px;
+
+}
+
+/* unvisited link  */
+a:link {
+    color:#C1DEEF;
+    font-family: InterMedium;
+    text-decoration: none;
+  }
+  
+  /* visited link */
+  a:visited {
+    color:#C1DEEF;
+    font-family: InterMedium;
+    text-decoration: none;
+
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: white;
+    text-decoration: none;
+  }
+  
+  /* selected link */
+  a:active {
+    color: white;
+    text-decoration: none;
+  }
+
+.persistent {
+    position: sticky;
+}
+/*
+.navbar {
+    position: fixed;
+    display: flex;
+    left: 0%;
+    top: 0px;
+    right: 0%;
+    bottom: auto;
+    z-index: 1;
+    width: 100%;
+    height: 42px;
+    padding-left: 20px;
+    padding-top:10px;
+    -webkit-box-pack: start;
+    -webkit-justify-content: flex-start;
+    -ms-flex-pack: start;
+    justify-content: flex-start;
+    -webkit-backface-visibility: visible;
+    backface-visibility: visible;
+    -webkit-transform-origin: 0% 50%;
+    -ms-transform-origin: 0% 50%;
+    transform-origin: 0% 50%;
+    background-color: #303030;
+}
+*/
+h1 {
+    color: white;
+    font-family: InterMedium;
+    line-height: 100%;
+	letter-spacing: -0.06em;
+    text-decoration: none;
+}
+
+h1:hover {
+    color: #999999;
+    -webkit-transition: all 100ms ease;
+    transition: all 100ms ease;
+    cursor: crosshair;
+}
+#jumbo header {
+    font-size: 3em;
+}
+
+h2 {
+    color: white;
+    display: inline;
+    font-family: InterMedium;
+    font-size: 1em;
+    letter-spacing: -0.1px;
+    text-decoration: none;
+}
+
+h3 {
+    color: white;
+    opacity: 100%;
+	font-family: InterMedium;
+	font-size: 14px;
+	letter-spacing: 0.35px;
+	line-height: 24px;
+    margin-bottom: 4px;
+    text-decoration: none;
+}
+
+h4 {
+	color: #999999;
+	font-family: Inter;
+	font-size: 12px;
+	letter-spacing: 1.5px;
+	line-height: 20px;
+	margin-top: 0px;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+
+.copy-btn {
+    color: white;
+    display: inline;
+    font-family: InterMedium;
+    font-size: 1em;
+    letter-spacing: -0.1px;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.copy-btn:hover {
+    position: static;
+    width: auto;
+    color: white;
+    background-color: #484C50;
+    padding-top: 2px;
+    padding-bottom: 3px;
+    margin-left: -4px;
+    padding-right: 4px;
+    padding-left: 4px;
+    -webkit-box-flex: 1;
+    -webkit-flex: 1;
+    -ms-flex: 1;
+    flex: 1;
+    -webkit-transition: all 100ms ease;
+    transition: all 100ms ease;
+    border-radius: 4px;
+  }
+
+#self {
+    position: absolute;
+    margin-left: 65%;
+    margin-top: -14%;
+    z-index: 2;
+    background-image: url("MollyMielkeHeadshot.jpg");
+    width: 170px;
+    height: 170px;
+    background-size: cover;
+    -webkit-transition: all 100ms ease;
+    transition: all 200ms ease;
+}
+
+.hide {
+    display: none;
+    z-index: 2;
+    -webkit-transition: all 100ms ease;
+    transition: all 200ms ease;
+  }
+  
+  .myDIV:hover + .hide {
+    width: auto;
+    height: auto;
+    display: block;
+    z-index: 2;
+    -webkit-transition: all 100ms ease;
+    transition: all 200ms ease;
+  }
+
+body.night #moon {
+	cursor: pointer;
+	width: 20px;
+}
+
+body.day #moon {
+	display: none;
+}
+
+body.night #sun {
+	display: none;
+}
+
+body.day #sun {
+	cursor: pointer;
+	width: 20px;
+}
+
+.spacer48 {
+	height: 48px;
+	width: 100%;
+}
+
+body {
+    font-size: 16px;
+    background: #303030;
+}
+
+/* For devices smaller than 400px */
+@media (max-width: 550px) {
+body.night #moon {
+	margin-bottom: 80px;
+	padding-right: 8px;
+	width: 20px;
+	float: right
+}
+
+body.day #sun {
+	margin-bottom: 80px;
+	padding-right: 8px;
+	width: 20px;
+	float: right
+}
+
+
+
+
+/* Day mode styling */
+
+
+
+}
