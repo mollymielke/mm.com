@@ -1,0 +1,567 @@
+<!DOCTYPE html>
+<script>
+    var __pbpa = true;
+</script>
+<script>
+    var translated_warning_string = 'Warning: Never enter your Tumblr password unless \u201chttps://www.tumblr.com/login\u201d\x0ais the address in your web browser.\x0a\x0aYou should also see a green \u201cTumblr, Inc.\u201d identification in the address bar.\x0a\x0aSpammers and other bad guys use fake forms to steal passwords.\x0a\x0aTumblr will never ask you to log in from a user\u2019s blog.\x0a\x0aAre you absolutely sure you want to continue?';
+</script>
+<script type="text/javascript" language="javascript" src="https://assets.tumblr.com/assets/scripts/pre_tumblelog.js?_v=b9f848c06fcba7eaf305d4a7cb7a1b98"></script>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+    <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# blog: http://ogp.me/ns/blog#">
+        <meta name="color:Background" content="#ffffff"/>
+        <meta name="font:Body" content="Arial,'Helvetica Neue',Helvetica,sans-serif"/>
+        <meta name="color:Separator" content="#eeeeee"/>
+        <meta name="color:Description" content="#eeeeee"/>
+        <meta name="color:Post Info" content="#aaaaaa"/>
+        <meta name="text:Disqus Shortname" content=""/>
+        <title>Interact Foundation Course</title>
+        <style>
+            figure {
+                margin: 0
+            }
+
+            .tmblr-iframe {
+                position: absolute
+            }
+
+            .tmblr-iframe.hide {
+                display: none
+            }
+
+            .tmblr-iframe--amp-cta-button {
+                visibility: hidden;
+                position: fixed;
+                bottom: 10px;
+                left: 50%;
+                transform: translateX(-50%);
+                z-index: 100
+            }
+
+            .tmblr-iframe--amp-cta-button.tmblr-iframe--loaded {
+                visibility: visible;
+                animation: iframe-app-cta-transition .2s ease-out
+            }
+        </style>
+        <link rel="stylesheet" media="screen" href="https://assets.tumblr.com/client/prod/standalone/blog-network-npf/index.build.css?_v=b84ed2eb31f8e1bbdb3e7a53afa67dd4">
+        <link rel="alternate" type="application/rss+xml" href="https://aredotna.tumblr.com/rss">
+        <link rel="stylesheet" href="https://static.tumblr.com/shrl2lc/Vtnkhc48t/betaprime-v1.css"/>
+        <link rel="stylesheet" href="https://static.tumblr.com/shrl2lc/Zjmkh4u4l/notes.css" type="text/css"/>
+        <script src="https://static.tumblr.com/shrl2lc/Kb0kl4vtp/jquery.js" type="text/javascript" charset="utf-8"></script>
+        <!--<script type="text/javascript" charset="utf-8">
+      $(function(){
+      	$("body").keydown(function(e){ var key = e.charCode || e.keyCode || 0; if(key == "37" && $(".prev").length !== 0){ location.href = $(".prev").attr("href")} if(key == "39" && $(".next").length !== 0){ location.href = $(".next").attr("href") } })
+      	$("body").prepend("<h2>Read more about me</h2>")
+        $("h2").before($("#desc").css({"margin-bottom":"20px"}).hide())
+        $("h2").click(function(){ $("#desc").slideToggle(500) })
+      })
+    </script>-->
+        <link rel="shortcut icon" href="https://64.media.tumblr.com/avatar_8c8e0d902ca9_128.pnj"/>
+        <meta name="description" content="Connect everything."/>
+        <style type="text/css">
+            body {
+                font-family: 'Helvetica Neue',Helvetica,Arial,'Liberation Sans',FreeSans,sans-serif;
+                background-color: #ffffff;
+            }
+
+            #desc {
+                background-color: #eeeeee;
+                width: 500px;
+            }
+
+            .info {
+                color: #9d9d9d;
+            }
+
+            .post {
+                border-color: #ffffff;
+            }
+
+            .text img {
+                max-width: 500px;
+            }
+
+            .text blockquote img {
+                max-width: 150px;
+            }
+
+            a.comments_link {
+                color: #aaa;
+                text-decoration: none;
+            }
+
+            #disqus_thread {
+                padding: 20px 0;
+                clear: both;
+            }
+
+            body {
+                margin-left: 60px;
+                color: #585858;
+                justify-items: center;
+            }
+
+            p {
+                text-align: center;
+                width: 500px;
+                display: block;
+                margin-left: auto !important;
+                margin-right: auto !important;
+            }
+
+            b {
+                text-align: center;
+                width: 500px;
+                display: block;
+                margin-left: auto !important;
+                margin-right: auto !important;
+            }
+
+            img {
+                display: block;
+                margin-left: auto !important;
+                margin-right: auto !important;
+            }
+
+            .photoset {
+                display: block;
+                margin-left: auto !important;
+                margin-right: auto !important;
+            }
+
+            a:link {
+                color: #585858;
+                font-weight: bold;
+                text-decoration: none;
+            }
+
+            a:hover {
+                color: #000;
+            }
+
+            h1 a:link {
+                color: #585858;
+                font-weight: bold;
+                text-decoration: none;
+            }
+
+            h1 a:hover {
+                color: #000;
+                text-decoration: none !important;
+            }
+
+            .info {
+                text-align: center;
+                width: 500px;
+                display: block;
+                margin-left: auto !important;
+                margin-right: auto !important;
+                font-size: 10px;
+                padding-bottom: 20px;
+            }
+
+            .notes {
+                text-align: center;
+            }
+
+            ol {
+                border-bottom: #fff !important;
+            }
+
+            li {
+                text-align: center;
+            }
+        </style>
+        <link rel="alternate" href="android-app://com.tumblr/tumblr/x-callback-url/blog?blogName=aredotna%26postID=182243925217"/>
+        <link rel="alternate" href="ios-app://305343404/tumblr/x-callback-url/blog?blogName=aredotna&postID=182243925217"/>
+        <link rel="alternate" type="application/json+oembed" href="https://www.tumblr.com/oembed/1.0?url=https://aredotna.tumblr.com/post/182243925217/export-your-tumblr-directly-into-arena" title="aredotna:
+&ldquo;Export your Tumblr directly into Are.na
+https://turtlekiosk.github.io/platform-ark/
+&rdquo;"/>
+        <script src="https://assets.tumblr.com/assets/scripts/tumblelog_post_message_queue.js?_v=a8fadfa499d8cb7c3f8eefdf0b1adfdd"></script>
+        <link rel="stylesheet" type="text/css" href="https://assets.tumblr.com/fonts/gibson/stylesheet.css?v=3">
+        <!-- BEGIN TUMBLR FACEBOOK OPENGRAPH TAGS -->
+        <!-- If you'd like to specify your own Open Graph tags, define the og:url and og:title tags in your theme's HTML. -->
+        <!-- Read more: http://ogp.me/ -->
+        <meta property="fb:app_id" content="48119224995"/>
+        <meta property="og:title" content="Are.na"/>
+        <meta property="og:url" content="https://aredotna.tumblr.com/?og=1"/>
+        <meta property="og:description" content="Connect everything."/>
+        <meta property="og:type" content="tumblr-feed:tumblelog"/>
+        <meta property="og:image" content="https://64.media.tumblr.com/avatar_8c8e0d902ca9_128.pnj"/>
+        <meta property="al:ios:url" content="tumblr://x-callback-url/blog?blogName=aredotna"/>
+        <meta property="al:ios:app_name" content="Tumblr"/>
+        <meta property="al:ios:app_store_id" content="305343404"/>
+        <meta property="al:android:url" content="tumblr://x-callback-url/blog?blogName=aredotna"/>
+        <meta property="al:android:app_name" content="Tumblr"/>
+        <meta property="al:android:package" content="com.tumblr"/>
+        <!-- END TUMBLR FACEBOOK OPENGRAPH TAGS -->
+        <!-- TWITTER TAGS -->
+        <meta charset="utf-8">
+        <meta name="twitter:site" content="tumblr"/>
+        <meta name="twitter:card" content="summary"/>
+        <meta name="twitter:description" content="aredotna"/>
+        <meta name="twitter:title" content="aredotna"/>
+        <meta name="twitter:app:name:iphone" content="Tumblr"/>
+        <meta name="twitter:app:name:ipad" content="Tumblr"/>
+        <meta name="twitter:app:name:googleplay" content="Tumblr"/>
+        <meta name="twitter:app:id:iphone" content="305343404"/>
+        <meta name="twitter:app:id:ipad" content="305343404"/>
+        <meta name="twitter:app:id:googleplay" content="com.tumblr"/>
+        <meta name="twitter:app:url:iphone" content="tumblr://x-callback-url/blog?blogName=aredotna&amp;referrer=twitter-cards"/>
+        <meta name="twitter:app:url:ipad" content="tumblr://x-callback-url/blog?blogName=aredotna&amp;referrer=twitter-cards"/>
+        <meta name="twitter:app:url:googleplay" content="tumblr://x-callback-url/blog?blogName=aredotna&amp;referrer=twitter-cards"/>
+        <!-- GOOGLE CAROUSEL -->
+        <script type="application/ld+json">
+            
+	{"@type":"ItemList","url":"https:\/\/aredotna.tumblr.com","itemListElement":[{"@type":"ListItem","position":1,"url":"https:\/\/aredotna.tumblr.com\/post\/620734166792912897\/aredotna-get-your-brains-together-what-would"},{"@type":"ListItem","position":2,"url":"https:\/\/aredotna.tumblr.com\/post\/186093143152\/maria-concept-bike-by-ishii-tatsuya-1999"},{"@type":"ListItem","position":3,"url":"https:\/\/aredotna.tumblr.com\/post\/186093139957\/what-makes-a-digicam-fashionable-this-is-the"},{"@type":"ListItem","position":4,"url":"https:\/\/aredotna.tumblr.com\/post\/184737783882\/httpsactualsourcework"},{"@type":"ListItem","position":5,"url":"https:\/\/aredotna.tumblr.com\/post\/184601174402\/export-your-tumblr-directly-into-arena"},{"@type":"ListItem","position":6,"url":"https:\/\/aredotna.tumblr.com\/post\/184599976172\/its-shockingly-easy-to-change-your-own-computer"},{"@type":"ListItem","position":7,"url":"https:\/\/aredotna.tumblr.com\/post\/184586063507"},{"@type":"ListItem","position":8,"url":"https:\/\/aredotna.tumblr.com\/post\/182378481667\/viktorbezic-via-arena-viktor-bezic"},{"@type":"ListItem","position":9,"url":"https:\/\/aredotna.tumblr.com\/post\/182243927947\/get-your-brains-together-what-would-it-be-like-to"},{"@type":"ListItem","position":10,"url":"https:\/\/aredotna.tumblr.com\/post\/182243925217\/export-your-tumblr-directly-into-arena"}],"@context":"http:\/\/schema.org"}
+        </script>
+        <link rel="canonical" href="https://aredotna.tumblr.com"/>
+    </head>
+    <body>
+        <div id="wrap">
+            <div id="head">
+                <h1>
+                    <a href="http://are.na">Interact Foundation Course</a>
+                </h1>
+                <!--<a href="/ask">Got a question? We have answers.</a>&nbsp;&nbsp;
+        <a href="/submit">Contribute</a>-->
+            </div>
+            <div id="content">
+                <div class="post photo">
+                    <!--<a href="https://aredotna.tumblr.com/post/620734166792912897/aredotna-get-your-brains-together-what-would" class="permalink">#</a>-->
+                    <img alt="aredotna:
+&ldquo; Get your brains together
+What would it be like to look into the brain of a book club?
+Or a sociology class? Or a creative agency? Can shared sandboxes for ideas help us build knowledge in ways that online documents and chat rooms still..." src="https://64.media.tumblr.com/8a70988d6438dfda405aea50a88c033c/tumblr_pl11yjqBqI1qbltjyo1_500.gifv"/>
+                    <div class="info">
+                        Updated 1 year ago. 208 notes. <a href="https://64.media.tumblr.com/8a70988d6438dfda405aea50a88c033c/tumblr_pl11yjqBqI1qbltjyo1_500.gifv"></a>
+                    </div>
+                    <p>
+                        <a href="http://aredotna.tumblr.com/post/181844919392/get-your-brains-together-what-would-it-be-like-to" class="tumblr_blog" target="_blank">aredotna</a>
+                        :
+                    </p>
+                    <blockquote>
+                        <p>
+                            <b>
+                                <a href="https://href.li/?https://www.are.na/blog/thinking-together" target="_blank">Get your brains together</a>
+                            </b>
+                        </p>
+                        <p>What would it be like to look into the brain of a book club?&nbsp;</p>
+                        <p>
+                            Or a sociology class? Or a creative agency? Can shared sandboxes for ideas help us build knowledge in ways that online documents and chat rooms still can &rsquo;t?<br/>
+                        </p>
+                        <p>
+                            This is <a href="https://href.li/?http://are.na" target="_blank">Are.na</a>
+                            &rsquo;s central promise, and we hope the new groups make it much easier for you to think together on the platform in many different contexts. We hope they offer you another tool for creating your own mindful social spaces online. Most of all, we hope they helps you learn from other people and expand the boundaries of your curiosity.
+                        </p>
+                        <p>
+                            <b>
+                                <a href="https://href.li/?https://www.are.na/blog/thinking-together" target="_blank">Start thinking together.&nbsp;</a>
+                            </b>
+                        </p>
+                    </blockquote>
+                    <p>
+                        (via <a href='https://futurepredictor.tumblr.com/post/181845053729/aredotna-get-your-brains-together-what-would-it'>futurepredictor</a>
+                        )
+                    </p>
+                </div>
+                <div class="post video">
+                    <!--<a href="https://aredotna.tumblr.com/post/186093143152/maria-concept-bike-by-ishii-tatsuya-1999" class="permalink">#</a>-->
+                    <div id="photoset_186093143152" class="html_photoset">
+                        <iframe id="photoset_iframe_186093143152" name="photoset_iframe_186093143152" class="photoset" scrolling="no" frameborder="0" height="1270" width="500" style="border:0; background-color:transparent; overflow:hidden;" src="/post/186093143152/photoset_iframe/aredotna/tumblr_pu5h1olh5I1v0jfst/500/false" onload=""></iframe>
+                    </div>
+                    <div class="info">
+                        Updated 2 years ago. 3142 notes. <a href=""></a>
+                    </div>
+                    <p>
+                        <a href="https://y2kaestheticinstitute.tumblr.com/post/186063313344/maria-concept-bike-by-ishii-tatsuya-1999" class="tumblr_blog" target="_blank">y2kaestheticinstitute</a>
+                        :
+                    </p>
+                    <blockquote>
+                        <p>
+                            <a href="https://href.li/?http://thenewcaferacersociety.blogspot.com/2010/09/musician-artist-event-producer-designer.html" target="_blank">
+                                <i>
+                                    <b>&lsquo;Maria &rsquo;</b>
+                                </i>
+                                concept bike
+                            </a>
+                            by &nbsp;Ishii Tatsuya (1999)<br/>
+                        </p>
+                        <p>
+                            &ldquo;Musician, artist, event producer, and designer. Ishii Tatsuya &rsquo;s incredible concept bike was created for his production of the 1999 Suzuka 8 Hours Endurance Road Race. Named &ldquo;Maria &rdquo;, (after the robot temptress in Fritz Lang &rsquo;s Metropolis we can only assume) the all chrome bike was complete with a fully costumed woman rider. The fate of the amazing Maria after her debut event remains unknown.&ldquo;<br/>
+                        </p>
+                    </blockquote>
+                </div>
+                <div class="post photo">
+                    <!--<a href="https://aredotna.tumblr.com/post/186093139957/what-makes-a-digicam-fashionable-this-is-the" class="permalink">#</a>-->
+                    <a href="https://aredotna.tumblr.com/image/186093139957">
+                        <img alt="y2kaestheticinstitute:
+&ldquo;What makes a digicam fashionable?
+This is the overlooked Olympus Stylus Verve / &micro;-mini (2004). Very small, and underpowered by today&rsquo;s specs (4mp), but with an aerodynamic design no other digicam would have since. It first..." src="https://64.media.tumblr.com/8fae1a882b96d804b5e1628c4bff8814/tumblr_pu1i4mFzBV1v0jfsto1_500.jpg"/>
+                    </a>
+                    <div class="info">
+                        Updated 2 years ago. 463 notes. <a href="https://64.media.tumblr.com/8fae1a882b96d804b5e1628c4bff8814/tumblr_pu1i4mFzBV1v0jfsto1_1280.jpg"></a>
+                    </div>
+                    <p>
+                        <a href="https://y2kaestheticinstitute.tumblr.com/post/186012990254/what-makes-a-digicam-fashionable-this-is-the" class="tumblr_blog" target="_blank">y2kaestheticinstitute</a>
+                        :
+                    </p>
+                    <blockquote>
+                        <p>
+                            <i>What makes a digicam fashionable?</i>
+                            <br>
+                            <br>
+                            This is the overlooked <b>Olympus Stylus Verve </b>
+                            /<b>µ-mini </b>
+                            (2004). Very small, and underpowered by today’s specs (4mp), but with an aerodynamic design no other digicam would have since. It first debuted in the 2004 <a href="https://href.li/?https://www.olympusamerica.com/files/oima_cckb/Stylus%20Verve%20Brochure.pdf" target="_blank">Olympus Fashion Week in New York</a>
+                            .<br>
+                            <br>
+                            It comes from a lineage first seen with Ross Lovegrove. He developed this Olympus Eye concept digicam (1990). It is unknown if he helped design the Verve, but this futuristic look carried over from the Eye to Stylus Verve in a decade.<br>
+                        </p>
+                        <figure class="tmblr-full">
+                            <a class="post_media_photo_anchor" data-big-photo="https://64.media.tumblr.com/63fa766c6127d851063a81398f0f8d56/bd31869e19c90733-d2/s1280x1920/59b0ab8f3830442935cd14edbf387b88d1b7bc47.png" data-big-photo-height="962" data-big-photo-width="1876">
+                                <img class="post_media_photo image" src="https://64.media.tumblr.com/63fa766c6127d851063a81398f0f8d56/bd31869e19c90733-d2/s500x750/b532f6e3c02e82272a913f595cb2f141e1578e8b.png" alt="image">
+                            </a>
+                        </figure>
+                        <p>
+                            <i>What makes this design unique?</i>
+                            <br>
+                            <br>
+                            It comes from a lineage first seen with Ross Lovegrove. He developed this <b>Olympus Eye</b>
+                            concept digicam (1990). It is unknown if he helped design the Verve, but this futuristic look carried over from the Eye to Stylus Verve in a decade.
+                        </p>
+                        <figure class="tmblr-full">
+                            <a class="post_media_photo_anchor" data-big-photo="https://64.media.tumblr.com/8fbb70b38855bde14b4edfa92fb6c547/bd31869e19c90733-a1/s1280x1920/6ec8d1261921661b8b1f0553a5d4196edf365adb.png" data-big-photo-height="1900" data-big-photo-width="1900">
+                                <img class="post_media_photo image" src="https://64.media.tumblr.com/8fbb70b38855bde14b4edfa92fb6c547/bd31869e19c90733-a1/s500x750/53858538e79ac39693c63580cf075fc253fb5777.png" alt="image">
+                            </a>
+                        </figure>
+                        <p>
+                            As tech becomes increasingly utilitarian and all consolidated, it is important to recognize when digicams were once a fashion statement for the consumer. Maybe companies will take notice as users start splitting their smartphones into single-use devices.<br>
+                            <br>
+                            – <a href="https://href.li/?http://froyotam.info" target="_blank">Froyo Tam</a>
+                            <br>
+                            [ <a href="http://twitter.com/froyotam" target="_blank">twitter</a>
+                            ] [ <a href="http://twitter.com/y2kaesthetic" target="_blank">y2k main twitter</a>
+                            ]<br>
+                            <br>
+                            <i>First image taken by Froyo on a Panasonic Lumix LX5</i>
+                        </p>
+                    </blockquote>
+                </div>
+                <div class="post photo">
+                    <!--<a href="https://aredotna.tumblr.com/post/184737783882/httpsactualsourcework" class="permalink">#</a>-->
+                    <a href="https://aredotna.tumblr.com/image/184737783882">
+                        <img alt="my-tumblrisbetterthanyours:
+&ldquo;https://actualsource.work/
+&rdquo;" src="https://64.media.tumblr.com/b89c058404016cd2d8c88e0032ee4327/tumblr_pqifgvPfp81qzgzyuo1_500.jpg"/>
+                    </a>
+                    <div class="info">
+                        Updated 2 years ago. 105 notes. <a href="https://64.media.tumblr.com/b89c058404016cd2d8c88e0032ee4327/tumblr_pqifgvPfp81qzgzyuo1_1280.jpg"></a>
+                    </div>
+                    <p>
+                        <a href="https://my-tumblrisbetterthanyours.tumblr.com/post/184431660738" class="tumblr_blog" target="_blank">my-tumblrisbetterthanyours</a>
+                        :
+                    </p>
+                    <blockquote>
+                        <p>
+                            <a href="https://href.li/?https://actualsource.work/" target="_blank">https://actualsource.work/</a>
+                        </p>
+                    </blockquote>
+                    <p>
+                        (via <a href='https://weareinternetexplorers.com/post/184615049825/httpsactualsourcework'>weareinternetexplorers</a>
+                        )
+                    </p>
+                </div>
+                <div class="post video">
+                    <!--<a href="https://aredotna.tumblr.com/post/184601174402/export-your-tumblr-directly-into-arena" class="permalink">#</a>-->
+                    <div id="photoset_184601174402" class="html_photoset">
+                        <iframe id="photoset_iframe_184601174402" name="photoset_iframe_184601174402" class="photoset" scrolling="no" frameborder="0" height="131" width="500" style="border:0; background-color:transparent; overflow:hidden;" src="/post/184601174402/photoset_iframe/aredotna/tumblr_plr3lmp84w1qbltjy/500/false" onload=""></iframe>
+                    </div>
+                    <div class="info">
+                        Updated 2 years ago. 16 notes. <a href=""></a>
+                    </div>
+  
+                <div class="post photo">
+                    <!--<a href="https://aredotna.tumblr.com/post/184599976172/its-shockingly-easy-to-change-your-own-computer" class="permalink">#</a>-->
+                    <a href="https://aredotna.tumblr.com/image/184599976172">
+                        <img alt="It&rsquo;s Shockingly Easy to Change Your Own Computer Battery" src="https://64.media.tumblr.com/c22e779a7b6e394cda52acf56f45f6dc/tumblr_pqvw44q2xU1qbltjyo1_500.jpg"/>
+                    </a>
+                    <div class="info">
+                        Updated 2 years ago. 8 notes. <a href="https://64.media.tumblr.com/c22e779a7b6e394cda52acf56f45f6dc/tumblr_pqvw44q2xU1qbltjyo1_1280.jpg"></a>
+                    </div>
+                    <p>
+                        <b>
+                            <a href="https://href.li/?http://www.thecaret.co/posts/how-to-replace-your-macbook-battery-ifixit" target="_blank">It &rsquo;s Shockingly Easy to Change Your Own Computer Battery</a>
+                        </b>
+                        <br/>
+                    </p>
+                </div>
+                <div class="post photo">
+                    <!--<a href="https://aredotna.tumblr.com/post/184586063507" class="permalink">#</a>-->
+                    <a href="https://aredotna.tumblr.com/image/184586063507">
+                        <img alt="" src="https://64.media.tumblr.com/f2c75299171b7404c7f8393bccaa4984/tumblr_pq1yepxXNT1qamghlo1_500.png"/>
+                    </a>
+                    <div class="info">
+                        Updated 2 years ago. 126 notes. <a href="https://64.media.tumblr.com/f2c75299171b7404c7f8393bccaa4984/tumblr_pq1yepxXNT1qamghlo1_1280.png"></a>
+                    </div>
+                    <p>
+                        (Source: <a href="https://wordsforyoungmen.tumblr.com/post/184224419040" title="wordsforyoungmen">wordsforyoungmen</a>
+                        )
+                    </p>
+                </div>
+                <div class="post photo">
+                    <!--<a href="https://aredotna.tumblr.com/post/182378481667/viktorbezic-via-arena-viktor-bezic" class="permalink">#</a>-->
+                    <a href="https://aredotna.tumblr.com/image/182378481667">
+                        <img alt="viktorbezic:
+&ldquo;(via Are.na / Viktor Bezic) - SHIRTNYC
+&rdquo;" src="https://64.media.tumblr.com/7d2e2e161248354f0dee5d06126d53e5/tumblr_pm23sqCjG31qc4j3fo1_500.jpg"/>
+                    </a>
+                    <div class="info">
+                        Updated 2 years ago. 18 notes. <a href="https://64.media.tumblr.com/7d2e2e161248354f0dee5d06126d53e5/tumblr_pm23sqCjG31qc4j3fo1_1280.jpg"></a>
+                    </div>
+                    <p>
+                        <a href="https://href.li/?http://blog.viktorbezic.com/post/182378342410/via-arena-viktor-bezic-shirtnyc" class="tumblr_blog" target="_blank">viktorbezic</a>
+                        :
+                    </p>
+                    <blockquote>
+                        <p>
+                            (via <a href="https://href.li/?https://www.are.na/block/3514786" target="_blank">Are.na / Viktor Bezic</a>
+                            ) - SHIRTNYC
+                        </p>
+                    </blockquote>
+                    <p>
+                        (Source: <a href="https://href.li/?https://www.are.na/block/3514786" title="are.na">are.na</a>
+                        , via <a href='https://blog.viktorbezic.com/post/182378342410/via-arena-viktor-bezic-shirtnyc'>viktorbezic</a>
+                        )
+                    </p>
+                </div>
+                <div class="post photo">
+                    <!--<a href="https://aredotna.tumblr.com/post/182243927947/get-your-brains-together-what-would-it-be-like-to" class="permalink">#</a>-->
+                    <img alt="aredotna:
+&ldquo;Get your brains together
+What would it be like to look into the brain of a book club?
+Or a sociology class? Or a creative agency? Can shared sandboxes for ideas help us build knowledge in ways that online documents and chat rooms still..." src="https://64.media.tumblr.com/8a70988d6438dfda405aea50a88c033c/tumblr_pl11yjqBqI1qbltjyo1_500.gifv"/>
+                    <div class="info">
+                        Updated 2 years ago. 208 notes. <a href="https://64.media.tumblr.com/8a70988d6438dfda405aea50a88c033c/tumblr_pl11yjqBqI1qbltjyo1_500.gifv"></a>
+                    </div>
+                    <p>
+                        <a href="http://aredotna.tumblr.com/post/181844919392/get-your-brains-together-what-would-it-be-like-to" class="tumblr_blog" target="_blank">aredotna</a>
+                        :
+                    </p>
+                    <blockquote>
+                        <p>
+                            <b>
+                                <a href="https://href.li/?https://www.are.na/blog/thinking-together" target="_blank">Get your brains together</a>
+                            </b>
+                        </p>
+                        <p>What would it be like to look into the brain of a book club?&nbsp;</p>
+                        <p>
+                            Or a sociology class? Or a creative agency? Can shared sandboxes for ideas help us build knowledge in ways that online documents and chat rooms still can &rsquo;t?<br/>
+                        </p>
+                        <p>
+                            This is <a href="https://href.li/?http://are.na" target="_blank">Are.na</a>
+                            &rsquo;s central promise, and we hope the new groups make it much easier for you to think together on the platform in many different contexts. We hope they offer you another tool for creating your own mindful social spaces online. Most of all, we hope they helps you learn from other people and expand the boundaries of your curiosity.
+                        </p>
+                        <p>
+                            <b>
+                                <a href="https://href.li/?https://www.are.na/blog/thinking-together" target="_blank">Start thinking together.&nbsp;</a>
+                            </b>
+                        </p>
+                    </blockquote>
+                </div>
+                <div class="post video">
+                    <!--<a href="https://aredotna.tumblr.com/post/182243925217/export-your-tumblr-directly-into-arena" class="permalink">#</a>-->
+                    <div id="photoset_182243925217" class="html_photoset">
+                        <iframe id="photoset_iframe_182243925217" name="photoset_iframe_182243925217" class="photoset" scrolling="no" frameborder="0" height="131" width="500" style="border:0; background-color:transparent; overflow:hidden;" src="/post/182243925217/photoset_iframe/aredotna/tumblr_plr3lmp84w1qbltjy/500/false" onload=""></iframe>
+                    </div>
+                    <div class="info">
+                        Updated 2 years ago. 16 notes. <a href=""></a>
+                    </div>
+                    <p>
+                        <a href="http://aredotna.tumblr.com/post/182225611707/export-your-tumblr-directly-into-arena" class="tumblr_blog" target="_blank">aredotna</a>
+                        :
+                    </p>
+                    <blockquote>
+                        <p>
+                            <b>
+                                Export your Tumblr directly into &nbsp;<a href="https://href.li/?http://Are.na" target="_blank">Are.na</a>
+                            </b>
+                        </p>
+                        <p>
+                            <a href="https://href.li/?https://turtlekiosk.github.io/platform-ark/" target="_blank">https://turtlekiosk.github.io/platform-ark/</a>
+                            <br/>
+                        </p>
+                    </blockquote>
+                </div>
+                <div id="nav">
+                    <a href="/page/2" class="next">Next page</a>
+                    <div class="clr"></div>
+                </div>
+            </div>
+            <div id="footer">
+            <!--<p><a href="/archive">Archive</a></p>-->
+            </div>
+        </div>
+        <iframe scrolling="no" width="1" height="1" frameborder="0" style="background-color:transparent; overflow:hidden; position:absolute; top:0; left:0; z-index:9999;" id="ga_target"></iframe>
+        <script type="text/javascript">
+            (function() {
+                var analytics_frame = document.getElementById('ga_target');
+                var analytics_iframe_loaded;
+                var user_logged_in;
+                var blog_is_nsfw = 'No';
+
+                var eventMethod = window.addEventListener ? "addEventListener" : "attachEvent";
+                var eventer = window[eventMethod];
+                var messageEvent = eventMethod == "attachEvent" ? "onmessage" : "message";
+                eventer(messageEvent, function(e) {
+                    var message = (e.data && e.data.split) ? e.data.split(';') : '';
+                    switch (message[0]) {
+                    case 'analytics_iframe_loaded':
+                        analytics_iframe_loaded = true;
+                        postCSMessage();
+                        postGAMessage();
+                        break;
+                    case 'user_logged_in':
+                        user_logged_in = message[1];
+                        postGAMessage();
+                        break;
+                    }
+                }, false);
+
+                analytics_frame.src = "https://assets.tumblr.com/analytics.html?_v=9f5febfd57a8a649c598d888f2d9e062#" + "https://aredotna.tumblr.com";
+                function postGAMessage() {
+                    if (analytics_iframe_loaded && user_logged_in) {
+                        var is_ajax = false;
+                        analytics_frame.contentWindow.postMessage(['tick_google_analytics', is_ajax, user_logged_in, blog_is_nsfw, '/?route=%2F'].join(';'), analytics_frame.src.split('/analytics.html')[0]);
+                    }
+                }
+                function postCSMessage() {
+                    COMSCORE = true;
+                    analytics_frame.contentWindow.postMessage('enable_comscore;' + window.location, analytics_frame.src.split('/analytics.html')[0]);
+                }
+            }
+            )();
+        </script>
+        <script type="text/javascript" nonce="gLvXGshZtQlibphZ16iFLeghP4">
+            !function(s) {
+                s.src = 'https://px.srvcs.tumblr.com/impixu?T=1634386270&J=eyJ0eXBlIjoidXJsIiwidXJsIjoiaHR0cDovL2FyZWRvdG5hLnR1bWJsci5jb20vIiwicmVxdHlwZSI6MCwicm91dGUiOiIvIn0=&U=GFMPMNMJOE&K=59de2b9e272c423006ccb85c19e1bf74748e06bf31794bb6fcfbccf1c5cd77ea&R=https%3A%2F%2Fwww.google.com%2F'.replace(/&R=[^&$]*/, '').concat('&R=' + escape(document.referrer)).slice(0, 2000).replace(/%.?.?$/, '');
+            }(new Image());
+        </script>
+        <noscript>
+            <img style="position:absolute;z-index:-3334;top:0px;left:0px;visibility:hidden;" src="https://px.srvcs.tumblr.com/impixu?T=1634386270&J=eyJ0eXBlIjoidXJsIiwidXJsIjoiaHR0cDovL2FyZWRvdG5hLnR1bWJsci5jb20vIiwicmVxdHlwZSI6MCwicm91dGUiOiIvIiwibm9zY3JpcHQiOjF9&U=GFMPMNMJOE&K=d89954b7ba2e308859d817321c5deef986af6d4d71abe5d6ba332112cd7400e2&R=https%3A%2F%2Fwww.google.com%2F">
+        </noscript>
+        <script type="text/javascript" nonce="gLvXGshZtQlibphZ16iFLeghP4">
+            !function(s) {
+                s.src = 'https://px.srvcs.tumblr.com/impixu?T=1634386270&J=eyJ0eXBlIjoicG9zdCIsInVybCI6Imh0dHA6Ly9hcmVkb3RuYS50dW1ibHIuY29tLyIsInJlcXR5cGUiOjAsInJvdXRlIjoiLyIsInBvc3RzIjpbeyJyb290X2Jsb2dpZCI6NDc2MTYyMSwicm9vdF9wb3N0aWQiOiIxODE4NDQ5MTkzOTIiLCJwb3N0aWQiOiI2MjA3MzQxNjY3OTI5MTI4OTciLCJibG9naWQiOjQ3NjE2MjEsInNvdXJjZSI6MzN9LHsicm9vdF9ibG9naWQiOiIyNjY3MDMzNDAiLCJyb290X3Bvc3RpZCI6IjE4NjA2MzMxMzM0NCIsInBvc3RpZCI6IjE4NjA5MzE0MzE1MiIsImJsb2dpZCI6NDc2MTYyMSwic291cmNlIjozM30seyJyb290X2Jsb2dpZCI6IjI2NjcwMzM0MCIsInJvb3RfcG9zdGlkIjoiMTg2MDEyOTkwMjU0IiwicG9zdGlkIjoiMTg2MDkzMTM5OTU3IiwiYmxvZ2lkIjo0NzYxNjIxLCJzb3VyY2UiOjMzfSx7InJvb3RfYmxvZ2lkIjoiMTE3NjQ4NSIsInJvb3RfcG9zdGlkIjoiMTg0NDMxNjYwNzM4IiwicG9zdGlkIjoiMTg0NzM3NzgzODgyIiwiYmxvZ2lkIjo0NzYxNjIxLCJzb3VyY2UiOjMzfSx7InJvb3RfYmxvZ2lkIjoiNDc2MTYyMSIsInJvb3RfcG9zdGlkIjoiMTgyMjI1NjExNzA3IiwicG9zdGlkIjoiMTg0NjAxMTc0NDAyIiwiYmxvZ2lkIjo0NzYxNjIxLCJzb3VyY2UiOjMzfSx7InBvc3RpZCI6IjE4NDU5OTk3NjE3MiIsImJsb2dpZCI6NDc2MTYyMSwic291cmNlIjozM30seyJyb290X2Jsb2dpZCI6IjMxNDU0NTAiLCJyb290X3Bvc3RpZCI6IjE4NDIyNDQxOTA0MCIsInBvc3RpZCI6IjE4NDU4NjA2MzUwNyIsImJsb2dpZCI6NDc2MTYyMSwic291cmNlIjozM30seyJyb290X2Jsb2dpZCI6IjUwNjEyNTYiLCJyb290X3Bvc3RpZCI6IjE4MjM3ODM0MjQxMCIsInBvc3RpZCI6IjE4MjM3ODQ4MTY2NyIsImJsb2dpZCI6NDc2MTYyMSwic291cmNlIjozM30seyJyb290X2Jsb2dpZCI6IjQ3NjE2MjEiLCJyb290X3Bvc3RpZCI6IjE4MTg0NDkxOTM5MiIsInBvc3RpZCI6IjE4MjI0MzkyNzk0NyIsImJsb2dpZCI6NDc2MTYyMSwic291cmNlIjozM30seyJyb290X2Jsb2dpZCI6IjQ3NjE2MjEiLCJyb290X3Bvc3RpZCI6IjE4MjIyNTYxMTcwNyIsInBvc3RpZCI6IjE4MjI0MzkyNTIxNyIsImJsb2dpZCI6NDc2MTYyMSwic291cmNlIjozM31dfQ==&U=BIDCMAGGGN&K=41604a4ed2254ad254488b5fd245b679ca689498b96616ce909f54242f328627&R=https%3A%2F%2Fwww.google.com%2F'.replace(/&R=[^&$]*/, '').concat('&R=' + escape(document.referrer)).slice(0, 2000).replace(/%.?.?$/, '');
+            }(new Image());
+        </script>
+        <noscript>
+            <img style="position:absolute;z-index:-3334;top:0px;left:0px;visibility:hidden;" src="https://px.srvcs.tumblr.com/impixu?T=1634386270&J=eyJ0eXBlIjoicG9zdCIsInVybCI6Imh0dHA6Ly9hcmVkb3RuYS50dW1ibHIuY29tLyIsInJlcXR5cGUiOjAsInJvdXRlIjoiLyIsInBvc3RzIjpbeyJyb290X2Jsb2dpZCI6NDc2MTYyMSwicm9vdF9wb3N0aWQiOiIxODE4NDQ5MTkzOTIiLCJwb3N0aWQiOiI2MjA3MzQxNjY3OTI5MTI4OTciLCJibG9naWQiOjQ3NjE2MjEsInNvdXJjZSI6MzN9LHsicm9vdF9ibG9naWQiOiIyNjY3MDMzNDAiLCJyb290X3Bvc3RpZCI6IjE4NjA2MzMxMzM0NCIsInBvc3RpZCI6IjE4NjA5MzE0MzE1MiIsImJsb2dpZCI6NDc2MTYyMSwic291cmNlIjozM30seyJyb290X2Jsb2dpZCI6IjI2NjcwMzM0MCIsInJvb3RfcG9zdGlkIjoiMTg2MDEyOTkwMjU0IiwicG9zdGlkIjoiMTg2MDkzMTM5OTU3IiwiYmxvZ2lkIjo0NzYxNjIxLCJzb3VyY2UiOjMzfSx7InJvb3RfYmxvZ2lkIjoiMTE3NjQ4NSIsInJvb3RfcG9zdGlkIjoiMTg0NDMxNjYwNzM4IiwicG9zdGlkIjoiMTg0NzM3NzgzODgyIiwiYmxvZ2lkIjo0NzYxNjIxLCJzb3VyY2UiOjMzfSx7InJvb3RfYmxvZ2lkIjoiNDc2MTYyMSIsInJvb3RfcG9zdGlkIjoiMTgyMjI1NjExNzA3IiwicG9zdGlkIjoiMTg0NjAxMTc0NDAyIiwiYmxvZ2lkIjo0NzYxNjIxLCJzb3VyY2UiOjMzfSx7InBvc3RpZCI6IjE4NDU5OTk3NjE3MiIsImJsb2dpZCI6NDc2MTYyMSwic291cmNlIjozM30seyJyb290X2Jsb2dpZCI6IjMxNDU0NTAiLCJyb290X3Bvc3RpZCI6IjE4NDIyNDQxOTA0MCIsInBvc3RpZCI6IjE4NDU4NjA2MzUwNyIsImJsb2dpZCI6NDc2MTYyMSwic291cmNlIjozM30seyJyb290X2Jsb2dpZCI6IjUwNjEyNTYiLCJyb290X3Bvc3RpZCI6IjE4MjM3ODM0MjQxMCIsInBvc3RpZCI6IjE4MjM3ODQ4MTY2NyIsImJsb2dpZCI6NDc2MTYyMSwic291cmNlIjozM30seyJyb290X2Jsb2dpZCI6IjQ3NjE2MjEiLCJyb290X3Bvc3RpZCI6IjE4MTg0NDkxOTM5MiIsInBvc3RpZCI6IjE4MjI0MzkyNzk0NyIsImJsb2dpZCI6NDc2MTYyMSwic291cmNlIjozM30seyJyb290X2Jsb2dpZCI6IjQ3NjE2MjEiLCJyb290X3Bvc3RpZCI6IjE4MjIyNTYxMTcwNyIsInBvc3RpZCI6IjE4MjI0MzkyNTIxNyIsImJsb2dpZCI6NDc2MTYyMSwic291cmNlIjozM31dLCJub3NjcmlwdCI6MX0=&U=BIDCMAGGGN&K=ccfa3df3b91290aa375435775659770cd3205c789e279413d006eb8ef81d76c6&R=https%3A%2F%2Fwww.google.com%2F">
+        </noscript>
+        <noscript id="bootloader" data-bootstrap="{&quot;Components&quot;:{&quot;PostActivity&quot;:[],&quot;NotificationPoller&quot;:{&quot;messaging_keys&quot;:[],&quot;token&quot;:&quot;c86f8a500596474a7ef5034081f694bd&quot;,&quot;inbox_unread&quot;:0},&quot;DesktopDashboardLogo&quot;:{&quot;animations&quot;:[[&quot;https:\/\/assets.tumblr.com\/images\/logo\/hover-animations\/1.png?_v=161861acded461bb6e995593a3bae835&quot;,&quot;https:\/\/assets.tumblr.com\/images\/logo\/hover-animations\/1@2x.png?_v=496a774637302a598c851381d00009b0&quot;]]},&quot;TumblelogIframe&quot;:{&quot;unified&quot;:true,&quot;variant&quot;:null,&quot;isCompact&quot;:true,&quot;tumblelogBundleSrc&quot;:&quot;https:\/\/assets.tumblr.com\/client\/prod\/standalone\/tumblelog\/index.build.js?_v=3adb836a96eddc27a1180d62826b0901&quot;,&quot;tumblelogName&quot;:&quot;aredotna&quot;,&quot;isLoggedIn&quot;:false,&quot;isFriend&quot;:false,&quot;formKey&quot;:&quot;&quot;,&quot;canSubscribe&quot;:false,&quot;isSubscribed&quot;:false,&quot;tumblelogTitle&quot;:&quot;Are.na&quot;,&quot;tumblelogAvatar&quot;:&quot;https:\/\/64.media.tumblr.com\/avatar_8c8e0d902ca9_64.pnj&quot;,&quot;tumblelogAvatar128&quot;:&quot;https:\/\/64.media.tumblr.com\/avatar_8c8e0d902ca9_128.pnj&quot;,&quot;tumblelogHost&quot;:&quot;https:\/\/aredotna.tumblr.com&quot;,&quot;isOptica&quot;:false,&quot;isCustomTheme&quot;:true,&quot;themeHeaderImage&quot;:&quot;https:\/\/static.tumblr.com\/85d2c04f9138570ba260acbbd4a00079\/ejbpohd\/2ijopcgbz\/tumblr_static_tumblr_static_9vdjmxnypcwgok0o04c8w8cw8_focused_v3.jpg&quot;,&quot;themeBackgroundColor&quot;:&quot;#FAFAFA&quot;,&quot;themeTitleColor&quot;:&quot;#000000&quot;,&quot;themeAccentColor&quot;:&quot;#000000&quot;,&quot;brag&quot;:false,&quot;adsEnabled&quot;:false,&quot;canShowAd&quot;:true,&quot;isPremium&quot;:false,&quot;showLrecAds&quot;:false,&quot;showStickyLrecBackfill&quot;:false,&quot;showGeminiAds&quot;:false,&quot;geminiSectionCodeDesktop&quot;:&quot;a10bca9c-0c5d-4a02-ab13-14ab8513d81d&quot;,&quot;geminiSectionCodeMobile&quot;:&quot;ced63809-b609-4aca-96a0-abc099acba6b&quot;,&quot;currentPageType&quot;:&quot;blog&quot;,&quot;currentPage&quot;:1,&quot;searchQuery&quot;:&quot;&quot;,&quot;tag&quot;:&quot;&quot;,&quot;query&quot;:&quot;&quot;,&quot;chrono&quot;:false,&quot;postId&quot;:&quot;&quot;,&quot;src&quot;:&quot;https:\/\/aredotna.tumblr.com\/&quot;,&quot;postUrl&quot;:&quot;&quot;,&quot;isBlocked&quot;:null,&quot;isAdmin&quot;:false,&quot;lookupButtonUrl&quot;:&quot;&quot;,&quot;showSpamButton&quot;:false,&quot;showRootPostButton&quot;:false,&quot;rootPostUrl&quot;:&quot;&quot;,&quot;showRadarPostButton&quot;:false,&quot;radarKeys&quot;:&quot;&quot;,&quot;isUniblocked&quot;:false,&quot;isNsfw&quot;:false,&quot;isAdult&quot;:false,&quot;isSpam&quot;:false,&quot;isPrimaryBlog&quot;:false,&quot;canEdit&quot;:false,&quot;canReblogSelf&quot;:false,&quot;showLikeButton&quot;:false,&quot;showReblogButton&quot;:false,&quot;reblogUrl&quot;:&quot;&quot;,&quot;showMessagingButton&quot;:false,&quot;loginCheckIframeSrc&quot;:&quot;https:\/\/assets.tumblr.com\/assets\/html\/iframe\/login_check.html?_v=3de94a184d600617102ddd5b48fb36e9&quot;,&quot;appInstallUrls&quot;:{&quot;android&quot;:&quot;https:\/\/play.google.com\/store\/apps\/details?id=com.tumblr\u0026referrer=utm_source%3Dtumblr%26utm_medium%3Diframe%26utm_campaign%3Dbn_continue_or_install_cta&quot;,&quot;ios&quot;:&quot;https:\/\/apps.apple.com\/app\/apple-store\/id305343404?pt=212308\u0026ct=bn_continue_or_install_cta\u0026mt=8&quot;},&quot;appOpenReferrer&quot;:&quot;bn_header_open_btn&quot;,&quot;isShowSearch&quot;:true,&quot;supplyLogging&quot;:[],&quot;secondsSinceLastActivity&quot;:-1,&quot;installUrlOpenFailed&quot;:{&quot;android&quot;:&quot;https:\/\/play.google.com\/store\/apps\/details?id=com.tumblr\u0026referrer=utm_source%3Dtumblr%26utm_medium%3Diframe%26utm_campaign%3Dbn_header_app_open_failed&quot;,&quot;ios&quot;:&quot;https:\/\/apps.apple.com\/app\/apple-store\/id305343404?pt=212308\u0026ct=bn_header_app_open_failed\u0026mt=8&quot;},&quot;loginWallVariant&quot;:&quot;small_center&quot;}},&quot;Flags&quot;:{&quot;features&quot;:&quot;eyJmaWx0ZXJfbnNmdyI6dHJ1ZSwibW9iaWxlX3dlYl9nYXRlIjp0cnVlLCJzYWZlX21vZGUiOnRydWUsInNhZmVfbW9kZV9lbmFibGVkIjp0cnVlLCJrZXljb21tYW5kX2F1dG9fcGFnaW5hdGUiOnRydWUsImxvZ2dlZF9vdXRfc2VhcmNoIjp0cnVlLCJrcmFrZW5fd2ViX2xvZ2dpbmdfbGlicmFyeSI6dHJ1ZSwibGl2ZXBob3Rvc193ZWIiOnRydWUsInVzZXJfdGFnX2ZpbHRlcmluZyI6dHJ1ZSwic2FmZV9tb2RlX293bl9wb3N0Ijp0cnVlLCJwcm9qZWN0X3hfYXBwZWFsIjp0cnVlLCJtb2JpbGVfd2ViX3Bob3Rvc2V0cyI6dHJ1ZSwiaGlkZV9kZWZhdWx0X2hlYWRlcnNfYmxvZ19jYXJkcyI6dHJ1ZSwibm90aWZpY2F0aW9uX3JlcGx5X2xpbmtfdG9fbm90ZXMiOnRydWUsInR5cGluZ19pbmRpY2F0b3Jfd3JpdGUiOnRydWUsInR1bWJscl92aWRlb19zcG9uc29yZWRfZGF5Ijp0cnVlLCJjYXB0Y2hhOnVzZV9yZWNhcHRjaGEyIjp0cnVlLCJsaXR0bGVfc2lzdGVyIjp0cnVlLCJsb2dfbGFkeSI6dHJ1ZSwicmVkcG9wX3Bvc3RfZm9ybV9tb2JpbGVfY3JlYXRlIjp0cnVlLCJsZWdhY3lfcG9zdF9mb3JtX2J1dHRvbnNfbGlua190b19yZWRwb3AiOnRydWUsInNob3dfdHNwX2NsaWNrX3Rocm91Z2hfdG9nZ2xlIjp0cnVlLCJkYXJsYV9hZF9mZWVkYmFjayI6dHJ1ZSwic3RhdHVzX2luZGljYXRvciI6dHJ1ZSwiY29udmVyc2F0aW9uYWxfbm90aWZpY2F0aW9ucyI6dHJ1ZSwiZGlzYWJsZV95YWhvb19iX2Nvb2tpZSI6dHJ1ZSwibGl2ZXBob3RvcyI6dHJ1ZX0=&quot;},&quot;Context&quot;:{&quot;name&quot;:&quot;default&quot;,&quot;time&quot;:1634386270000,&quot;userinfo&quot;:{&quot;primary&quot;:&quot;&quot;,&quot;name&quot;:&quot;&quot;,&quot;channels&quot;:[]},&quot;hosts&quot;:{&quot;assets_host&quot;:&quot;https:\/\/assets.tumblr.com&quot;,&quot;secure_assets_host&quot;:&quot;https:\/\/assets.tumblr.com&quot;,&quot;www_host&quot;:&quot;https:\/\/www.tumblr.com&quot;,&quot;secure_www_host&quot;:&quot;https:\/\/www.tumblr.com&quot;,&quot;embed_host&quot;:&quot;https:\/\/embed.tumblr.com&quot;,&quot;safe_host&quot;:&quot;https:\/\/safe.txmblr.com&quot;,&quot;platform_host&quot;:&quot;https:\/\/platform.tumblr.com&quot;},&quot;language&quot;:&quot;en_US&quot;,&quot;language_simple&quot;:&quot;en&quot;,&quot;assets&quot;:&quot;https:\/\/assets.tumblr.com\/client\/prod\/&quot;},&quot;Translations&quot;:{&quot;%1$sReport %2$s&#039;s post?%3$sIf it violates our community guidelines, we&#039;ll remove it.%4$s&quot;:&quot;%1$sReport %2$s&#039;s reblog?%3$sIf it violates our community guidelines, we&#039;ll remove it.%4$s&quot;,&quot;%1$sReport %2$s&#039;s reply?%3$sIf it violates our community guidelines, we&#039;ll remove it.%4$s&quot;:&quot;%1$sReport %2$s&#039;s reblog?%3$sIf it violates our community guidelines, we&#039;ll remove it.%4$s&quot;}}"></noscript>
+        <script src="https://assets.tumblr.com/client/prod/standalone/tumblelog/index.build.js?_v=3adb836a96eddc27a1180d62826b0901"></script>
+    </body>
+</html>
+
+
